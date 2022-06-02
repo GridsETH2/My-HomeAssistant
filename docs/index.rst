@@ -1,3 +1,2 @@
-<h3>Test Index</h3>
+test
 
-Test Index
